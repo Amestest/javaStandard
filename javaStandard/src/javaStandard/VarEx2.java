@@ -12,8 +12,7 @@ public class VarEx2 {
 		x = y;
 		y = tmp;
 		
-		System.out.println("x:" + x + "y:" + y);
-		
+		System.out.println("x:" + x + "y:" + y);		
 
 	}
 
