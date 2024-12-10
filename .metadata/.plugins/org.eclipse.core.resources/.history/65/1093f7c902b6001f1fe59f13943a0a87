@@ -1,0 +1,13 @@
+package javaStandard;
+
+public class OperatorEx11 {
+
+	public static void main(String[] args) {
+		char a = 'a';
+		char b = 'b';
+		char zero = '0';
+		char two = '2';
+
+	}
+
+}

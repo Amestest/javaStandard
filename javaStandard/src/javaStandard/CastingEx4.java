@@ -18,8 +18,6 @@ public class CastingEx4 {
 		System.out.printf("d=%f i3+%d\n", d, i3);
 		System.out.printf("(int)%f=%d\n", f2, i4);
 		
-		
-
 	}
 
 }
