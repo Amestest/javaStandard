@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;javaStandard.Flow&apos; to &apos;FlowEx4&apos;&#x0D;&#x0A;- Original project: &apos;javaStandard&apos;&#x0D;&#x0A;- Original element: &apos;javaStandard.Flow&apos;&#x0D;&#x0A;- Renamed element: &apos;javaStandard.FlowEx4&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Flow&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;javaStandard{Flow.java[Flow" matchStrategy="1" name="FlowEx4" qualified="false" references="true" similarDeclarations="false" stamp="1735459295228" textual="false" version="1.0"/>
+</session>

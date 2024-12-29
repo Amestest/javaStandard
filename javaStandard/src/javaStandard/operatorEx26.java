@@ -1,6 +1,6 @@
 package javaStandard;
 
-public class operatorEx26 {
+public class OperatorEx26 {
 
 	public static void main(String[] args) {
 		int a = 5;
