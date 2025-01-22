@@ -1,0 +1,12 @@
+package javaStandard;
+
+class Data {int x};
+
+class ReferenceParamEx {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}
