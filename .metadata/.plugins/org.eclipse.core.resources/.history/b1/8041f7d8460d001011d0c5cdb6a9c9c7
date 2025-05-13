@@ -1,0 +1,23 @@
+package javaStandard;
+
+import java.sql.Time;
+
+public class TimeTest {
+	public static void main(String args[]) {
+		Time t = new Time(12, 35, 60);
+		System.out.println(t);
+		//t.hour  = 13; 에러! 변수 hour의 접근제어자가 private 이므로 접근할 수 없다.
+		t.setHours(t.getHour() + 1); // 현재시간보다 1시간 후로 변경한다.
+		System.out.println(t);
+	}
+}
+
+class Time {
+	private int hour, minute, second;
+	
+	Time(int hour, int minute, int second) {
+		setHour(hour);
+		setMinute(minute);
+		setSecond(second);
+	}
+}
